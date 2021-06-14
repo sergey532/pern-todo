@@ -1,0 +1,6 @@
+1. mkdir server
+2. cd server
+3. npm init -y
+4. npm  i express pg cors
+5. touch index.js // создание файла
+6. В папке pern-todo: npx create-react-app client
